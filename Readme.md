@@ -200,7 +200,6 @@ The application implements a cohesive design system:
 - **Wouter**: Lightweight routing library
 
 ## Replit Integration
-
 - **@replit/vite-plugin-cartographer**: Development environment integration
 - **@replit/vite-plugin-dev-banner**: Development indicators
 - **@replit/vite-plugin-runtime-error-modal**: Enhanced error reporting
