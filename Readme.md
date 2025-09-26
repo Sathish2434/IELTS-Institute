@@ -199,9 +199,5 @@ The application implements a cohesive design system:
 - **date-fns**: Date manipulation utilities
 - **Wouter**: Lightweight routing library
 
-## Replit Integration
-- **@replit/vite-plugin-cartographer**: Development environment integration
-- **@replit/vite-plugin-dev-banner**: Development indicators
-- **@replit/vite-plugin-runtime-error-modal**: Enhanced error reporting
 
 The application is structured to easily scale from the current landing page to a full-featured IELTS training platform with course management, progress tracking, and interactive learning modules.
